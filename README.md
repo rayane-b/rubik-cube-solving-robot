@@ -8,9 +8,9 @@ Project in robotics, computer engineering, electrical engineering, and software 
 - [x] Arduino MEGA ADK Board for Android
 - [x] Frame
 - [x] 1 camera
-##### Material Missing:
-- [ ] Stepper Motor Drivers
+- [x] Stepper Motor Drivers
 - [ ] Power Supply
+##### Material Missing:
 - [ ] 1 camera
 ###### Also missing:
 - [ ] Code
