@@ -9,7 +9,7 @@ Project in robotics, computer engineering, electrical engineering, and software 
 - [x] Frame
 - [x] 1 camera
 - [x] Stepper Motor Drivers
-- [ ] Power Supply
+- [x] Power Supply
 ##### Material Missing:
 - [ ] 1 camera
 ###### Also missing:
