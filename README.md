@@ -10,6 +10,8 @@ Project in robotics, computer engineering, electrical engineering, and software 
 - [x] 1 camera
 - [x] Stepper Motor Drivers
 - [x] Power Supply
+- [x] Multimeter
+
 ##### Material Missing:
 - [ ] 1 camera
 ###### Also missing:
