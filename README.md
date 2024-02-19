@@ -17,8 +17,8 @@ Project in robotics, computer engineering, electrical engineering, and software 
 
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-![](outputs/output_Biotouch/18-15_02-02-2018/Identification/ITALIC/ITALIC_movementPoints_cmc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Identification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_cmc.png)
-![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_roc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_roc.png)
+![](https://cdn.discordapp.com/attachments/898709510154227752/1208932836594294794/ABLVV87EESyl0sxsDpB7MbKJyNj83VOB-mEscqiZw_djOzsOIAxjdei3wLr64Aw1080-h1080-s-no-gm.png?ex=65e51571&is=65d2a071&hm=15763d9fd2710ed2928e0084ac5adb8fa79d0a6483d3624d0752c474b701c728&)  |  ![](https://cdn.discordapp.com/attachments/898709510154227752/1208932837009526794/ABLVV86G1xHSKcH79R1En5mSo8sxVc2tJzmv-NCko1peNruWr7IRdoJEMpysagw1080-h1081-s-no-gm.png?ex=65e51571&is=65d2a071&hm=8769bb2603e279eaeb235207fb7c626e6c282a730c4516f6c23d46c9e649cffb&)
+![](https://cdn.discordapp.com/attachments/898709510154227752/1208932837387149342/ABLVV850MTfjDkEWbj02ylf1Q6yc0BerGXbKIFBPvEeLk3vbucxa_mjm9Sh8Cww1080-h1080-s-no-gm.png?ex=65e51571&is=65d2a071&hm=780420c56ebfa678750aadcb64be063fd381716997ad5dc0fac87ffa79102da7&)  |  ![](https://cdn.discordapp.com/attachments/898709510154227752/1208932837751791626/PS-MI-475W.png?ex=65e51571&is=65d2a071&hm=d3e0ae5703abd86d764a3a30d8da45243d718684134f3deae2835f1ee465539e&)
 ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_frrVSfpr.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_frrVSfpr.png)
 
 ###### Also missing:
