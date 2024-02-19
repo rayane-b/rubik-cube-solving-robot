@@ -27,4 +27,4 @@ Will update soon with the code and pictures of the circuit.
 
  |              |   |
 :-------------------------:|:-------------------------:
- <img src="https://cdn.discordapp.com/attachments/898709510154227752/1208932837387149342/ABLVV850MTfjDkEWbj02ylf1Q6yc0BerGXbKIFBPvEeLk3vbucxa_mjm9Sh8Cww1080-h1080-s-no-gm.png?ex=65e51571&is=65d2a071&hm=780420c56ebfa678750aadcb64be063fd381716997ad5dc0fac87ffa79102da7&" alt="alt text" width="whatever" height="whatever"> | | |
+ <img src="https://cdn.discordapp.com/attachments/898709510154227752/1208932837387149342/ABLVV850MTfjDkEWbj02ylf1Q6yc0BerGXbKIFBPvEeLk3vbucxa_mjm9Sh8Cww1080-h1080-s-no-gm.png?ex=65e51571&is=65d2a071&hm=780420c56ebfa678750aadcb64be063fd381716997ad5dc0fac87ffa79102da7&" alt="alt text" width="100" height="100"> | | |
