@@ -1,4 +1,4 @@
-# Rubik's Cube Solving Robot
+# Rubik's Cube-Solving Robot
 Project in robotics, computer engineering, electrical engineering, and software engineering. 
 
 ##### Material Acquired:
@@ -16,3 +16,4 @@ Project in robotics, computer engineering, electrical engineering, and software 
 - [ ] 1 camera
 ###### Also missing:
 - [ ] Code
+Will update soon with the code and pictures of the circuit.
